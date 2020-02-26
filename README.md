@@ -1,5 +1,5 @@
 # NPP-AppShape-UDL
-Notepad++ AppShape++ User Defined Language 
+Notepad++ User Defined Language for Alteon's AppShape++
 
 ## Table Of Contents ###
 - [Description](#description )
