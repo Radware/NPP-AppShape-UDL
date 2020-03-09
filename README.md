@@ -19,4 +19,4 @@ In order to use the AppShape coloring scheme, perform the following <br>
 * Import the "AppShape_udl.xml"
 
 ### Auto Complete ###
-In order to use the AppShape++ Auto-Complete, Download and place "AppShape_ac.xml" in the Notepad++\autoCompletion directory<br>
+In order to use the AppShape++ Auto-Complete, Download and place "AppShape.xml" in the Notepad++\autoCompletion directory<br>
