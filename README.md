@@ -14,9 +14,10 @@ Using the UDL Notepad++ will be able to auto-complete knowen AppShape++ commands
 ## How To Use ##
 ### color scheme ###
 In order to use the AppShape coloring scheme, perform the following <br>
-* Download "AppShape_udl.xml"
-* Inside Notepad++ navigate to: Language > User Defined Language > Define your language..
-* Import the "AppShape_udl.xml"
+* Download `AppShape_udl.xml`
+* Inside Notepad++ navigate to: `Language > User Defined Language > Define your language..`
+* Import `AppShape_udl.xml`
+From this point on to use the new color scheme, Navigate to `Language` menu and select `AppShape` 
 
 ### Auto Complete ###
-In order to use the AppShape++ Auto-Complete, Download and place "AppShape.xml" in the Notepad++\autoCompletion directory<br>
+In order to use the AppShape++ Auto-Complete, Download and place `AppShape.xml` in the `Notepad++\autoCompletion` directory<br>
